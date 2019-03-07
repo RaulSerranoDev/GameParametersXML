@@ -2,28 +2,28 @@
 <gameParameters>
   <general>
     <time_count>180</time_count>
-    <death_duration>3,0</death_duration>
+    <death_duration>3.0</death_duration>
   </general>
   <player>
-    <run_speed>10,0</run_speed>
-    <jump_height>5,0</jump_height>
+    <run_speed>10.0</run_speed>
+    <jump_height>5.0</jump_height>
     <melee_damage>5</melee_damage>
     <abilities>
       <fire>
         <damage>10</damage>
-        <cast_duration>0,5</cast_duration>
-        <cast_rate>5,0</cast_rate>
+        <cast_duration>0.5</cast_duration>
+        <cast_rate>5.0</cast_rate>
       </fire>
       <ice>
         <damage>20</damage>
-        <cast_duration>1,5</cast_duration>
-        <cast_rate>7,0</cast_rate>
+        <cast_duration>1.5</cast_duration>
+        <cast_rate>7.0</cast_rate>
       </ice>
     </abilities>
   </player>
   <enemies>
     <spider>
-      <run_speed>5,5</run_speed>
+      <run_speed>5.5</run_speed>
       <melee_damage>2</melee_damage>
     </spider>
   </enemies>

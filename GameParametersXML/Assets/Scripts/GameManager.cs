@@ -27,6 +27,9 @@ namespace Game
 
         #endregion Persistent_Singleton
 
+        /// <summary>
+        /// Parámetros del juego
+        /// </summary>
         public GameParameters GameParameters;
     }
 }

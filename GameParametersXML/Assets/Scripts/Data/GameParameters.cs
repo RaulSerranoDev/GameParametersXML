@@ -17,7 +17,6 @@ namespace Game
         public float PlayerJumpHeight;
         public int PlayerMeleeDamage;
 
-        [Header("Abilities")]
         [Header("Fire")]
         public int FireDamage;
         public float FireCastDuration;
@@ -28,7 +27,6 @@ namespace Game
         public float IceCastDuration;
         public float IceCastRate;
 
-        [Header("Enemies")]
         [Header("Spider")]
         public float SpiderRunSpeed;
         public int SpiderMeleeDamage;
